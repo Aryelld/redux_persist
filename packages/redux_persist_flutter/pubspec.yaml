@@ -13,7 +13,7 @@ dependencies:
   shared_preferences: ^2.0.4
   redux_persist:
     git:
-      url: https://github.com/Aryelld/redux_persist.git
+      url: https://github.com/kevmeyer/redux_persist.git
       path: packages/redux_persist
       ref: km_null_safety
 
